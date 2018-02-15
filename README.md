@@ -1,4 +1,4 @@
-
+We analyze the performance of several cancer drugs on mice. We analyze how well the drugs treat the cancer as well as the effect the drugs have on the survival rate of the mice.
 
 ```python
 import numpy as np
@@ -301,8 +301,8 @@ plt.show()
 
 ## Observations
 
-### Ramicane and Capomulin are the only two drugs to shrink tumors.
-### Ramicane and Capomulin had the lowest spread of metastatic sites.
-### Rats on Ramicane and Capomulin had the highest survival rates.
+ Ramicane and Capomulin are the only two drugs to shrink tumors.
+ Ramicane and Capomulin had the lowest spread of metastatic sites.
+ Rats on Ramicane and Capomulin had the highest survival rates.
 
-#### It seems that Ramicane and Capomulin are the best performing drugs on all metrics considered here.
+ It seems that Ramicane and Capomulin are the best performing drugs on all metrics considered here.
